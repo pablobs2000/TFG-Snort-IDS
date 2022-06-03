@@ -1,0 +1,2 @@
+04/23-13:46:06.889522 [**] [1:17789:5] "PROTOCOL-SCADA Modbus read input register from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:37125 -> 192.168.100.3:502
+04/23-13:46:06.896079 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.3:502 -> 192.168.100.2:37125
