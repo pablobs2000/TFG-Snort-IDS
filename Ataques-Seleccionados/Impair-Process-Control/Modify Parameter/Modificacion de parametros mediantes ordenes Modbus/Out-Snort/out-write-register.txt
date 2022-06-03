@@ -1,0 +1,1 @@
+04/23-14:28:55.786480 [**] [1:17783:5] "PROTOCOL-SCADA Modbus write single register from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:37019 -> 192.168.100.3:502

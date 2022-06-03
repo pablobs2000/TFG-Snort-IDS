@@ -1,0 +1,8 @@
+05/02-14:21:14.969896 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.56.1
+05/02-14:21:14.970001 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.1.190
+05/02-14:21:14.970116 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.174.1
+05/02-14:21:14.970271 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.232.1
+05/02-14:21:16.470501 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.232.1
+05/02-14:21:16.470512 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.174.1
+05/02-14:21:16.470516 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.1.190
+05/02-14:21:16.470520 [**] [1:402:16] "PROTOCOL-ICMP destination unreachable port unreachable packet detected" [**] [Classification: Misc activity] [Priority: 3] {ICMP} 192.168.0.142 -> 192.168.56.1
