@@ -1,0 +1,2 @@
+04/10-06:37:16.047581 [**] [1:17790:5] "PROTOCOL-SCADA Modbus read holding registers from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:33332 -> 192.168.100.3:502
+04/10-06:37:17.050742 [**] [1:17790:5] "PROTOCOL-SCADA Modbus read holding registers from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:33334 -> 192.168.100.3:502
