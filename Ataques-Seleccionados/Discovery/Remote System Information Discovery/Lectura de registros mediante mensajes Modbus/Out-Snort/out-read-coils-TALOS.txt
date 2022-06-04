@@ -1,0 +1,1 @@
+04/23-14:20:38.125657 [**] [1:17788:5] "PROTOCOL-SCADA Modbus read coils from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:40065 -> 192.168.100.3:502
