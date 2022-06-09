@@ -1,1 +1,0 @@
-04/23-14:18:23.835250 [**] [1:17790:5] "PROTOCOL-SCADA Modbus read holding registers from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:38837 -> 192.168.100.3:502
