@@ -1,7 +1,0 @@
-Date first seen          Duration Proto      Src IP Addr:Port          Dst IP Addr:Port     Flags Tos  Packets    Bytes      pps      bps    Bpp Flows
-2022-04-14 13:27:32.226     0.712 UDP      192.168.1.190:59887 ->    192.168.1.191:161   ........   0       45     4046       63    45460     89     1
-2022-04-14 13:27:32.226     0.713 UDP      192.168.1.191:161   ->    192.168.1.190:59887 ........   0       45     4862       63    54552    108     1
-Summary: total flows: 2, total bytes: 8908, total packets: 90, avg bps: 99949, avg pps: 126, avg bpp: 98
-Time window: 2022-04-14 13:27:32 - 2022-04-14 13:27:32
-Total flows processed: 2, Blocks skipped: 0, Bytes read: 168
-Sys: 0.001s flows/second: 1445.1     Wall: 0.000s flows/second: 8810.6 

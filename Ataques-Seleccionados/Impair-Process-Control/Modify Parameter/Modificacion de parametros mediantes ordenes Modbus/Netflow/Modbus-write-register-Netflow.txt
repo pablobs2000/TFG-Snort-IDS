@@ -1,7 +1,0 @@
-Date first seen          Duration Proto      Src IP Addr:Port          Dst IP Addr:Port     Flags Tos  Packets    Bytes      pps      bps    Bpp Flows
-2022-04-23 14:28:55.784     0.009 TCP      192.168.100.2:37019 ->    192.168.100.3:502   ...AP.SF   0        6      212      666   188444     35     1
-2022-04-23 14:28:55.785     0.008 TCP      192.168.100.3:502   ->    192.168.100.2:37019 ...AP.SF   0        4      148      500   148000     37     1
-Summary: total flows: 2, total bytes: 360, total packets: 10, avg bps: 320000, avg pps: 1111, avg bpp: 36
-Time window: 2022-04-23 14:28:55 - 2022-04-23 14:28:55
-Total flows processed: 2, Blocks skipped: 0, Bytes read: 168
-Sys: 0.001s flows/second: 1888.6     Wall: 0.000s flows/second: 10309.3   

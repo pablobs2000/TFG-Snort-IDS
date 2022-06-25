@@ -1,4 +1,0 @@
-06/05-13:04:15.815140 [**] [1:17799:5] "PROTOCOL-SCADA Modbus read device identification from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:49810 -> 192.168.100.3:502
-06/05-13:04:15.815140 [**] [1:17798:5] "PROTOCOL-SCADA Modbus report slave id from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:49810 -> 192.168.100.3:502
-06/05-13:04:15.817699 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.3:502 -> 192.168.100.2:49810
-06/05-13:04:15.823892 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.3:502 -> 192.168.100.2:49812
