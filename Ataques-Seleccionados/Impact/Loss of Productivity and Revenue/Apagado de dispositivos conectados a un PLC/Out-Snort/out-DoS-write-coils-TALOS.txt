@@ -1,0 +1,1 @@
+05/06-12:51:38.982863 [**] [1:17785:5] "PROTOCOL-SCADA Modbus write multiple coils from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.100.2:43505 -> 192.168.100.3:502
