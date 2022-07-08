@@ -1,3 +1,0 @@
-10/11-12:31:04.723894 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.3:20000 -> 10.0.0.8:1184
-10/11-12:31:07.537969 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.3:20000 -> 10.0.0.8:1184
-10/11-12:46:17.297272 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.3:20000 -> 10.0.0.9:1084
