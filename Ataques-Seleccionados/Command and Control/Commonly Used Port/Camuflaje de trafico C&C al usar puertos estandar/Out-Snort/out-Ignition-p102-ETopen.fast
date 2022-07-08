@@ -1,0 +1,21 @@
+07/02-13:22:51.184705  [**] [1:2018358:5] ET INFO GENERIC SUSPICIOUS POST to Dotted Quad with Fake Browser 1 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.87:35277 -> 192.168.2.91:8088
+07/02-13:22:51.184705 192.168.2.87:35277 -> 192.168.2.91:8088
+TCP TTL:128 TOS:0x0 ID:43355 IpLen:20 DgmLen:10424 DF
+***A**** Seq: 0x91E46ABC  Ack: 0x82AF09DB  Win: 0x100  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:22:53.540913  [**] [1:2035480:3] ET INFO PE EXE Download over raw TCP [**] [Classification: Misc activity] [Priority: 3] {TCP} 192.168.2.87:102 -> 192.168.2.91:60964
+07/02-13:22:53.540913 192.168.2.87:102 -> 192.168.2.91:60964
+TCP TTL:64 TOS:0x0 ID:19155 IpLen:20 DgmLen:7340 DF
+***AP*** Seq: 0xDE9E33A2  Ack: 0x2D6C57BC  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:22:53.552599  [**] [1:2025644:1] ET TROJAN Possible Metasploit Payload Common Construct Bind_API (from server) [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 192.168.2.87:102 -> 192.168.2.91:60964
+07/02-13:22:53.552599 192.168.2.87:102 -> 192.168.2.91:60964
+TCP TTL:64 TOS:0x0 ID:19262 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0xDEA095DE  Ack: 0x2D6C57BC  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+

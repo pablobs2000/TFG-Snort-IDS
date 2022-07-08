@@ -1,0 +1,1582 @@
+07/02-13:24:34.126068  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.126068 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2947 IpLen:20 DgmLen:44 DF
+***AP*** Seq: 0x847C4081  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.126868  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.126868 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2948 IpLen:20 DgmLen:7340 DF
+***AP*** Seq: 0x847C4085  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.126868  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.126868 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2948 IpLen:20 DgmLen:7340 DF
+***AP*** Seq: 0x847C4085  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.126868  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.126868 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2948 IpLen:20 DgmLen:7340 DF
+***AP*** Seq: 0x847C4085  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.126897  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.126897 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2953 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847C5D09  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.126897  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.126897 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2953 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847C5D09  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128012  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128012 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2957 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847C73D9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128012  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128012 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2957 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847C73D9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128033  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128033 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2961 IpLen:20 DgmLen:8800 DF
+***AP*** Seq: 0x847C8AA9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128033  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128033 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2961 IpLen:20 DgmLen:8800 DF
+***AP*** Seq: 0x847C8AA9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128674  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128674 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2967 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847CACE1  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128674  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128674 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2967 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847CACE1  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128674  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128674 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2967 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847CACE1  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.128012  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.128012 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:128 TOS:0x0 ID:43545 IpLen:20 DgmLen:2324 DF
+***A**** Seq: 0x847C84F5  Ack: 0x503BAF71  Win: 0x100  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.130154  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.130154 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2975 IpLen:20 DgmLen:13180 DF
+***AP*** Seq: 0x847CDA81  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.130154  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.130154 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2975 IpLen:20 DgmLen:13180 DF
+***AP*** Seq: 0x847CDA81  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.130674  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.130674 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2984 IpLen:20 DgmLen:13180 DF
+***AP*** Seq: 0x847D0DD5  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.130674  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.130674 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2984 IpLen:20 DgmLen:13180 DF
+***AP*** Seq: 0x847D0DD5  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.130674  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.130674 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2984 IpLen:20 DgmLen:13180 DF
+***AP*** Seq: 0x847D0DD5  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.131951  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.131951 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2993 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847D4129  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.131951  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.131951 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2993 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847D4129  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.131951  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.131951 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:2993 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847D4129  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.132573  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.132573 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3001 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847D6EC9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.132573  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.132573 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3001 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847D6EC9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.133127  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.133127 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3008 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847D96B5  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.133127  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.133127 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3008 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847D96B5  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.133127  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.133127 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3008 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847D96B5  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.134008  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.134008 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3015 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847DBEA1  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.134008  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.134008 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3015 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847DBEA1  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.134581  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.134581 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3019 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847DD571  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.134581  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.134581 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3019 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847DD571  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.134581  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.134581 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3019 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847DD571  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.135808  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.135808 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3026 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847DFD5D  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.135808  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.135808 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3026 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x847DFD5D  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.136662  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.136662 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3033 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847E2549  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.136662  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.136662 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3033 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847E2549  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.137279  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.137279 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3041 IpLen:20 DgmLen:14640 DF
+***AP*** Seq: 0x847E52E9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.137279  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.137279 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3041 IpLen:20 DgmLen:14640 DF
+***AP*** Seq: 0x847E52E9  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.138148  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.138148 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3051 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847E8BF1  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.138148  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.138148 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3051 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x847E8BF1  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.138873  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.138873 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3059 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847EB991  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.138873  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.138873 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3059 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x847EB991  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.135808  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.135808 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:128 TOS:0x0 ID:43579 IpLen:20 DgmLen:17560 DF
+***A**** Seq: 0x847E0E79  Ack: 0x503BAF71  Win: 0x100  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.140354  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.140354 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3063 IpLen:20 DgmLen:7314 DF
+***AP*** Seq: 0x847ED061  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.140354  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.140354 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3063 IpLen:20 DgmLen:7314 DF
+***AP*** Seq: 0x847ED061  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.195083  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.195083 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3068 IpLen:20 DgmLen:427 DF
+***AP*** Seq: 0x847EECCB  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.195083  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.195083 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3068 IpLen:20 DgmLen:427 DF
+***AP*** Seq: 0x847EECCB  Ack: 0x503BAF71  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.256278  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.256278 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43593 IpLen:20 DgmLen:437 DF
+***AP*** Seq: 0x503BAF71  Ack: 0x847EEE4E  Win: 0x201  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.256278  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.256278 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43593 IpLen:20 DgmLen:437 DF
+***AP*** Seq: 0x503BAF71  Ack: 0x847EEE4E  Win: 0x201  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.260522  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.260522 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3070 IpLen:20 DgmLen:168 DF
+***AP*** Seq: 0x847EEE4E  Ack: 0x503BB0FE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.318219  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.318219 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43595 IpLen:20 DgmLen:552 DF
+***AP*** Seq: 0x503BB0FE  Ack: 0x847EEECE  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.318219  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.318219 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43595 IpLen:20 DgmLen:552 DF
+***AP*** Seq: 0x503BB0FE  Ack: 0x847EEECE  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.325349  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.325349 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3072 IpLen:20 DgmLen:168 DF
+***AP*** Seq: 0x847EEECE  Ack: 0x503BB2FE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.379607  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.379607 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43597 IpLen:20 DgmLen:184 DF
+***AP*** Seq: 0x503BB2FE  Ack: 0x847EEF4E  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621324  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621324 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3074 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847EEF4E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621324  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621324 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3074 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847EEF4E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621347  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621347 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3076 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847EFAB6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621347  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621347 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3076 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847EFAB6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621469  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621469 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3078 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F061E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621469  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621469 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3078 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F061E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621478  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621478 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3080 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F1186  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621478  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621478 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3080 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F1186  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621706  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621706 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3082 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F1CEE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621706  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621706 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3082 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F1CEE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621718  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621718 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3084 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F2856  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.621718  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.621718 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3084 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F2856  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622724  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622724 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3086 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F33BE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622724  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622724 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3086 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F33BE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622735  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622735 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3088 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F3F26  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622735  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622735 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3088 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F3F26  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622871  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622871 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3090 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F4A8E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622871  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622871 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3090 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F4A8E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622880  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622880 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3092 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F55F6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.622880  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.622880 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3092 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F55F6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623006  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623006 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3094 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F615E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623006  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623006 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3094 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F615E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623017  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623017 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3096 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F6CC6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623017  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623017 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3096 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F6CC6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623644  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623644 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3098 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F782E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623644  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623644 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3098 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F782E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623653  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623653 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3100 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F8396  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623653  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623653 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3100 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F8396  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623788  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623788 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3102 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847F8EFE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623788  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623788 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3102 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847F8EFE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623797  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623797 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3103 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F94B2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623797  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623797 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3103 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847F94B2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623805  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623805 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3105 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FA01A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.623805  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.623805 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3105 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FA01A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624546  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624546 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3107 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FAB82  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624546  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624546 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3107 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FAB82  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624556  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624556 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3109 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FB6EA  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624556  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624556 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3109 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FB6EA  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624652  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624652 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3111 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FC252  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624652  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624652 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3111 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FC252  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624662  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624662 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3113 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FCDBA  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624662  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624662 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3113 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FCDBA  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624793  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624793 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3115 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847FD922  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.624793  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.624793 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3115 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847FD922  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625536  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625536 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3116 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FDED6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625536  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625536 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3116 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FDED6  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625545  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625545 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3118 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847FEA3E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625545  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625545 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3118 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847FEA3E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625553  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625553 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3119 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FEFF2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625553  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625553 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3119 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FEFF2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625698  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625698 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3121 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FFB5A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.625698  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.625698 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3121 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x847FFB5A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626501  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626501 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3123 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x848006C2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626501  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626501 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3123 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x848006C2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626510  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626510 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3124 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84800C76  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626510  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626510 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3124 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84800C76  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626517  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626517 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3127 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84801D92  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626517  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626517 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3127 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84801D92  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626517  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626517 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3127 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84801D92  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626642  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626642 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3130 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84802EAE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.626642  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.626642 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3130 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84802EAE  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.627554  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.627554 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3132 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84803A16  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.627554  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.627554 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3132 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84803A16  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.627564  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.627564 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3135 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84804B32  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.627564  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.627564 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3135 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84804B32  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.627576  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.627576 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3137 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x8480569A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.627576  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.627576 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3137 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x8480569A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628344  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628344 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3141 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84806D6A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628344  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628344 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3141 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84806D6A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628355  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628355 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3144 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84807E86  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628355  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628355 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3144 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84807E86  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628915  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628915 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3147 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84808FA2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628915  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628915 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3147 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84808FA2  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628927  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628927 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3149 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84809B0A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.628927  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.628927 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3149 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x84809B0A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.629575  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.629575 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3152 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8480AC26  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.629575  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.629575 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3152 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8480AC26  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.629590  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.629590 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3154 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x8480B78E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.629590  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.629590 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3154 IpLen:20 DgmLen:5880 DF
+***AP*** Seq: 0x8480B78E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.630776  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.630776 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3158 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x8480CE5E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.630776  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.630776 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3158 IpLen:20 DgmLen:10260 DF
+***AP*** Seq: 0x8480CE5E  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.630935  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.630935 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3165 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x8480F64A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.630935  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.630935 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3165 IpLen:20 DgmLen:4420 DF
+***AP*** Seq: 0x8480F64A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.627576  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.627576 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:128 TOS:0x0 ID:43621 IpLen:20 DgmLen:17560 DF
+***A**** Seq: 0x8480569A  Ack: 0x503BB38E  Win: 0x100  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.632114  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.632114 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3168 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x84810766  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.632114  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.632114 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3168 IpLen:20 DgmLen:11720 DF
+***AP*** Seq: 0x84810766  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.632882  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.632882 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3176 IpLen:20 DgmLen:13180 DF
+***AP*** Seq: 0x84813506  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.632882  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.632882 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3176 IpLen:20 DgmLen:13180 DF
+***AP*** Seq: 0x84813506  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.634211  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.634211 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3185 IpLen:20 DgmLen:5548 DF
+***AP*** Seq: 0x8481685A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.634211  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.634211 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3185 IpLen:20 DgmLen:5548 DF
+***AP*** Seq: 0x8481685A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.634211  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.634211 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3185 IpLen:20 DgmLen:5548 DF
+***AP*** Seq: 0x8481685A  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.689699  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.689699 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43636 IpLen:20 DgmLen:1528 DF
+***AP*** Seq: 0x503BB38E  Ack: 0x84817DDE  Win: 0x201  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.689699  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.689699 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43636 IpLen:20 DgmLen:1528 DF
+***AP*** Seq: 0x503BB38E  Ack: 0x84817DDE  Win: 0x201  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.692859  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.692859 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3190 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84817DDE  Ack: 0x503BB95E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.750970  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.750970 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43639 IpLen:20 DgmLen:248 DF
+***AP*** Seq: 0x503BB95E  Ack: 0x84817E4E  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.751774  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.751774 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3191 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84817E4E  Ack: 0x503BBA2E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.812914  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.812914 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43641 IpLen:20 DgmLen:216 DF
+***AP*** Seq: 0x503BBA2E  Ack: 0x84817EBE  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.817225  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.817225 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3192 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84817EBE  Ack: 0x503BBADE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.873919  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.873919 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43643 IpLen:20 DgmLen:312 DF
+***AP*** Seq: 0x503BBADE  Ack: 0x84817F2E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.874965  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.874965 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3193 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84817F2E  Ack: 0x503BBBEE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.935935  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.935935 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43645 IpLen:20 DgmLen:1320 DF
+***AP*** Seq: 0x503BBBEE  Ack: 0x84817F9E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.935935  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.935935 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43645 IpLen:20 DgmLen:1320 DF
+***AP*** Seq: 0x503BBBEE  Ack: 0x84817F9E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.938765  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:34.938765 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3194 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84817F9E  Ack: 0x503BC0EE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.997952  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.997952 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43647 IpLen:20 DgmLen:1640 DF
+***AP*** Seq: 0x503BC0EE  Ack: 0x8481800E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:34.997952  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:34.997952 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43647 IpLen:20 DgmLen:1640 DF
+***AP*** Seq: 0x503BC0EE  Ack: 0x8481800E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.005293  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.005293 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3196 IpLen:20 DgmLen:168 DF
+***AP*** Seq: 0x8481800E  Ack: 0x503BC72E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.059385  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:35.059385 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43650 IpLen:20 DgmLen:184 DF
+***AP*** Seq: 0x503BC72E  Ack: 0x8481808E  Win: 0x1FE  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131101  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131101 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3198 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481808E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131101  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131101 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3198 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481808E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131121  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131121 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3200 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84818BF6  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131121  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131121 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3200 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84818BF6  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131274  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131274 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3202 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481975E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131274  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131274 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3202 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481975E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131285  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131285 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3204 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481A2C6  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131285  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131285 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3204 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481A2C6  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131417  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131417 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3206 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481AE2E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131417  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131417 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3206 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481AE2E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131427  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131427 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3208 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481B996  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131427  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131427 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3208 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481B996  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131543  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131543 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3210 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481C4FE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131543  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131543 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3210 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481C4FE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131553  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131553 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3212 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481D066  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131553  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131553 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3212 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481D066  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131697  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131697 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3214 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481DBCE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131697  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131697 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3214 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481DBCE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131707  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131707 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3216 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481E736  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131707  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131707 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3216 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481E736  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131844  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131844 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3218 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481F29E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131844  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131844 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3218 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481F29E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131853  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131853 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3220 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481FE06  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131853  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131853 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3220 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8481FE06  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131983  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131983 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3222 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x8482096E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.131983  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.131983 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3222 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x8482096E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132613  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132613 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3223 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84820F22  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132613  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132613 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3223 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84820F22  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132629  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132629 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3225 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84821A8A  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132629  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132629 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3225 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84821A8A  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132754  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132754 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3227 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x848225F2  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132754  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132754 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3227 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x848225F2  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132754  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132754 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3227 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x848225F2  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132768  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132768 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3229 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x8482315A  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.132768  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.132768 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3229 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x8482315A  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133823  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133823 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3230 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8482370E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133823  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133823 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3230 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x8482370E  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133838  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133838 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3232 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84824276  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133838  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133838 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3232 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84824276  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133988  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133988 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3234 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84824DDE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133988  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133988 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3234 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84824DDE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133998  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133998 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3236 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84825946  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.133998  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.133998 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3236 IpLen:20 DgmLen:2960 DF
+***AP*** Seq: 0x84825946  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.134480  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.134480 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3238 IpLen:20 DgmLen:808 DF
+***AP*** Seq: 0x848264AE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.134480  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:35.134480 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3238 IpLen:20 DgmLen:808 DF
+***AP*** Seq: 0x848264AE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:35.199301  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:35.199301 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43662 IpLen:20 DgmLen:264 DF
+***AP*** Seq: 0x503BC7BE  Ack: 0x848267AE  Win: 0x201  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:37.852152  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:37.852152 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3240 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x848267AE  Ack: 0x503BC89E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:37.913887  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:37.913887 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43664 IpLen:20 DgmLen:312 DF
+***AP*** Seq: 0x503BC89E  Ack: 0x8482681E  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:37.915445  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:37.915445 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3242 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x8482681E  Ack: 0x503BC9AE  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:37.975577  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:37.975577 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43666 IpLen:20 DgmLen:248 DF
+***AP*** Seq: 0x503BC9AE  Ack: 0x8482688E  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:37.977463  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:37.977463 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3244 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x8482688E  Ack: 0x503BCA7E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:38.037745  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:38.037745 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43668 IpLen:20 DgmLen:216 DF
+***AP*** Seq: 0x503BCA7E  Ack: 0x848268FE  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:41.234637  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:41.234637 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3246 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x848268FE  Ack: 0x503BCB2E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:41.734903  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:41.734903 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43670 IpLen:20 DgmLen:7340 DF
+***A**** Seq: 0x503BCB2E  Ack: 0x8482696E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:41.734903  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:41.734903 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43670 IpLen:20 DgmLen:7340 DF
+***A**** Seq: 0x503BCB2E  Ack: 0x8482696E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:41.735226  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:41.735226 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43675 IpLen:20 DgmLen:7340 DF
+***A**** Seq: 0x503BE7B2  Ack: 0x8482696E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:41.735226  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:41.735226 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43675 IpLen:20 DgmLen:7340 DF
+***A**** Seq: 0x503BE7B2  Ack: 0x8482696E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:41.735597  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:41.735597 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43680 IpLen:20 DgmLen:768 DF
+***AP*** Seq: 0x503C0436  Ack: 0x8482696E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:41.735597  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:41.735597 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43680 IpLen:20 DgmLen:768 DF
+***AP*** Seq: 0x503C0436  Ack: 0x8482696E  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:43.771413  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:43.771413 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3250 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x8482696E  Ack: 0x503C070E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:43.838403  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:43.838403 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43682 IpLen:20 DgmLen:1320 DF
+***AP*** Seq: 0x503C070E  Ack: 0x848269DE  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:43.838403  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:43.838403 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43682 IpLen:20 DgmLen:1320 DF
+***AP*** Seq: 0x503C070E  Ack: 0x848269DE  Win: 0x1FF  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:46.605156  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:46.605156 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3252 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x848269DE  Ack: 0x503C0C0E  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:46.606590  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.91:60969 -> 192.168.2.87:502
+07/02-13:24:46.606590 192.168.2.91:60969 -> 192.168.2.87:502
+TCP TTL:128 TOS:0x0 ID:43683 IpLen:20 DgmLen:200 DF
+***AP*** Seq: 0x503C0C0E  Ack: 0x84826A4E  Win: 0x1FE  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/02-13:24:46.826608  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+07/02-13:24:46.826608 192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3255 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84826A4E  Ack: 0x503C0CAF  Win: 0x1F5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
