@@ -1,0 +1,64 @@
+05/07-11:52:27.353387  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:52:27.353387 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8853 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x584A9493  Ack: 0xF7E751  Win: 0x1FD  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:52:30.996745  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:52:30.996745 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8855 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x584A94BD  Ack: 0xF7E7B2  Win: 0x1FD  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:52:40.119729  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:52:40.119729 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8857 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x584A94D5  Ack: 0xF7E7C3  Win: 0x1FD  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:52:41.044699  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:52:41.044699 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8859 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x584A94F0  Ack: 0xF7E814  Win: 0x1FD  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:52:51.056136  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:52:51.056136 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8861 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x584A9508  Ack: 0xF7E825  Win: 0x1FD  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:53:00.138122  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:53:00.138122 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8864 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x584A9520  Ack: 0xF7E836  Win: 0x1FD  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:53:01.107735  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:53:01.107735 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8866 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x584A953B  Ack: 0xF7E887  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:53:02.042250  [**] [1:1111207:1] SCADA_IDS: DNP3 - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:53:02.042250 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8868 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x584A9553  Ack: 0xF7E898  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-11:53:02.151548  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49950 -> 192.168.2.86:20000
+05/07-11:53:02.151548 192.168.2.91:49950 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:8870 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x584A956E  Ack: 0xF7E8B7  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+
