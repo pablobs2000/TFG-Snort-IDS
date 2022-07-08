@@ -1,0 +1,8 @@
+04/23-14:28:55.786480  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.100.2:37019 -> 192.168.100.3:502
+04/23-14:28:55.786480 192.168.100.2:37019 -> 192.168.100.3:502
+TCP TTL:64 TOS:0x0 ID:48442 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x81D32EF7  Ack: 0x483D4FAB  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 3294368424 153359245 
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
