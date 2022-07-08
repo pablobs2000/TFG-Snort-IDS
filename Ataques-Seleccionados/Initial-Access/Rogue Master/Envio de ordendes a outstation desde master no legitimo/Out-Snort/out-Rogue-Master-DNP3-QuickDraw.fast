@@ -1,0 +1,6 @@
+06/05-07:42:38.080985  [**] [1:1111204:1] SCADA_IDS: DNP3 - Cold Restart From Authorized Client [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.2.91:51929 -> 192.168.2.86:20000
+06/05-07:42:39.721539  [**] [1:1111204:1] SCADA_IDS: DNP3 - Cold Restart From Authorized Client [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.2.91:51929 -> 192.168.2.86:20000
+06/05-07:42:41.096026  [**] [1:1111204:1] SCADA_IDS: DNP3 - Cold Restart From Authorized Client [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.2.91:51929 -> 192.168.2.86:20000
+06/05-07:42:42.580427  [**] [1:1111204:1] SCADA_IDS: DNP3 - Cold Restart From Authorized Client [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.2.91:51929 -> 192.168.2.86:20000
+06/05-07:42:43.942309  [**] [1:1111204:1] SCADA_IDS: DNP3 - Cold Restart From Authorized Client [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.2.91:51929 -> 192.168.2.86:20000
+06/05-07:42:50.955996  [**] [1:1111210:2] SCADA_IDS: DNP3 - Warm Restart [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.2.91:51929 -> 192.168.2.86:20000
