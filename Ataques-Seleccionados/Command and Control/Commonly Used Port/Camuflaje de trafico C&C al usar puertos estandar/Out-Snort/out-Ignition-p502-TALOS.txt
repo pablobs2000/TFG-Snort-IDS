@@ -1,0 +1,182 @@
+07/02-13:24:30.577860 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.2.87:38551 -> 192.168.2.91:8088
+
+http_inspect.stream_tcp[87]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+39 31 3A 38 30 38 38 0D  0A 55 73 65 72 2D 41 67  91:8088. .User-Ag
+65 6E 74 3A 20 4D 6F 7A  69 6C 6C 61 2F 34 2E 30  ent: Moz illa/4.0
+20 28 63 6F 6D 70 61 74  69 62 6C 65 3B 20 4D 53   (compat ible; MS
+49 45 20 36 2E 30 3B 20  57 69 6E 64 6F 77 73 20  IE 6.0;  Windows 
+4E 54 20 35 2E 31 29                             NT 5.1)
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+07/02-13:24:30.585921 [**] [1:50447:1] "POLICY-OTHER HTTP request by IPv4 address attempt" [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {TCP} 192.168.2.87:43749 -> 192.168.2.91:8088
+
+http_inspect.stream_tcp[87]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+48 6F 73 74 3A 20 31 39  32 2E 31 36 38 2E 32 2E  Host: 19 2.168.2.
+39 31 3A 38 30 38 38 0D  0A 55 73 65 72 2D 41 67  91:8088. .User-Ag
+65 6E 74 3A 20 4D 6F 7A  69 6C 6C 61 2F 34 2E 30  ent: Moz illa/4.0
+20 28 63 6F 6D 70 61 74  69 62 6C 65 3B 20 4D 53   (compat ible; MS
+49 45 20 36 2E 30 3B 20  57 69 6E 64 6F 77 73 20  IE 6.0;  Windows 
+4E 54 20 35 2E 31 29                             NT 5.1)
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+07/02-13:24:34.325349 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3072 IpLen:20 DgmLen:168 DF
+***AP*** Seq: 0x847EEECE  Ack: 0x503BB2FE  Win: 0x1F5  TcpLen: 20
+
+07/02-13:24:34.624793 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3115 IpLen:20 DgmLen:1500 DF
+***A**** Seq: 0x847FD922  Ack: 0x503BB38E  Win: 0x1F5  TcpLen: 20
+
+07/02-13:24:34.624793 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+
+snort.stream_tcp[1460]:
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+49 F5 FD 3B 24 BB C1 D4  79 68 BB 5F AE 21 67 56  I..;$... yh._.!gV
+78 B7 21 5A BF 1D E2 E4  33 96 38 72 D9 00 9E 41  x.!Z.... 3.8r...A
+14 D1 85 DA EA E7 74 28  D2 DB B7 87 D3 18 F7 65  ......t( .......e
+DF 20 5D FB BA 5E B1 B5  88 36 23 7D 66 13 9C F1  . ]..^.. .6#}f...
+22 57 78 F4 BD 67 47 62  64 B3 5D C3 F5 F9 50 AF  "Wx..gGb d.]...P.
+46 37 F2 DE 3E FF F9 24  F6 F9 C4 01 FB 06 86 2D  F7..>..$ .......-
+96 AD 1F C1 55 CC 15 4B  19 53 2B DB D4 D6 63 33  ....U..K .S+...c3
+94 85 36 3E 03 07 A3 29  72 34 1D 6B 16 59 28 D3  ..6>...) r4.k.Y(.
+58 20 98 B0 06 05 4A 2B  DF FC B0 2F 29 46 C9 0C  X ....J+ .../)F..
+21 72 DF 8D 12 C5 D6 9D  92 C9 76 FE 68 E7 5B 60  !r...... ..v.h.[`
+64 99 8E C1 20 85 31 9A  06 E5 A2 F2 41 D8 EC 58  d... .1. ....A..X
+8B 85 9A 15 84 0D 95 55  02 7C C5 41 B8 BA B2 6C  .......U .|.A...l
+C3 B0 0B CF 81 89 6A 34  E5 71 E9 10 D3 F5 94 D5  ......j4 .q......
+C5 3A 63 B6 58 8F 46 CE  42 C1 69 39 E8 72 C3 2E  .:c.X.F. B.i9.r..
+87 D7 08 F3 4B FD 4F 38  34 66 91 56 9B FB 1A 28  ....K.O8 4f.V...(
+04 26 94 53 6C D5 FC 19  84 72 0E 22 90 8E 14 BA  .&.Sl... .r."....
+F5 76 A2 E8 DE 52 87 02  C3 D0 F8 F5 44 BE 03 2A  .v...R.. ....D..*
+C0 51 B6 83 DF B2 7C 72  1C A7 1F A2 AF 54 88 00  .Q....|r .....T..
+A9 6F 96 E4 E9 9E 89 3B  20 DE 69 8C 22 D2 B5 77  .o.....;  .i."..w
+38 E6 68 B4 FF 94 F0 0C  CF D0 F4 68 1F 0E C0 F6  8.h..... ...h....
+9E 7E 6F 8D 8A 0C 10 BA  6A 85 39 83 67 DB F4 A0  .~o..... j.9.g...
+F4 9B 33 43 7E B8 FB 1A  7B 56 D1 CB 44 04 50 AE  ..3C~... {V..D.P.
+29 7E C0 EB AD 1F 4B 80  CB 5A DD 8A 4C 42 58 D4  )~....K. .Z..LBX.
+85 73 8B 8E B2 C3 35 78  BE F1 10 C8 B7 E0 F8 29  .s....5x .......)
+C0 ED A4 6A BC 77 BF 83  A4 DF F3 CB 6A 66 55 4C  ...j.w.. ....jfUL
+55 D4 B1 72 99 86 3C B2  FC 15 3D 60 35 3B C7 29  U..r..<. ..=`5;.)
+34 45 D3 D4 6E B5 A1 42  E4 D3 D4 F4 F8 7D 00 B8  4E..n..B .....}..
+DA A2 1B C1 57 D4 EC 84  B4 C9 66 D5 A1 1D 5C 9F  ....W... ..f...\.
+71 7F A0 1D E1 B6 B1 8D  C1 31 C1 8D 07 55 9E AE  q....... .1...U..
+6C 08 57 45 94 AC CC DA  B8 80 A7 2D 9D 5B 85 67  l.WE.... ...-.[.g
+89 3A 80 01 69 A9 8A 58  25 95 00 61 32 76 37 43  .:..i..X %..a2v7C
+9F 45 6C 52 5E 11 2D 74  5A 75 C1 BD EC D6 A7 87  .ElR^.-t Zu......
+D0 9E 6F B1 69 B0 03 C6  58 99 F6 9D B2 99 2C 0C  ..o.i... X.....,.
+A6 86 F1 13 06 29 E0 3F  D8 2E 57 03 3E 3F 7C E1  .....).? ..W.>?|.
+AB 06 C1 A3 8D 61 30 85  BD D8 CA DA 50 E0 58 97  .....a0. ....P.X.
+73 39 09 48 3B 5F 52 38  DB CA 0B 44 94 2E 21 FA  s9.H;_R8 ...D..!.
+2F A8 76 9C ED B7 D4 49  1F 97 8F A1 AC 64 A5 49  /.v....I .....d.I
+46 B7 F6 81 70 2B 2D 38  D1 20 4A BB 52 9F C9 4C  F...p+-8 . J.R..L
+8E FD 99 F3 A9 E8 26 EC  75 22 6C AE B5 7E F5 A0  ......&. u"l..~..
+83 8D E8 F6 C4 0F BD 67  9C 77 06 90 02 9D 9A D7  .......g .w......
+DA 0B 43 34 A2 98 F4 58  61 57 F3 AD 6E 7B 57 6C  ..C4...X aW..n{Wl
+80 9D 5F 65 14 BB 94 3A  6B 6E 76 C1 CD 28 B9 A9  .._e...: knv..(..
+43 CE EC 3E 7C A3 8B 8C  0C DF A4 47 56 3B F6 FD  C..>|... ...GV;..
+AA AB 0F E6 D3 8B 49 BC  F2 A4 BB AE 49 44 D1 DA  ......I. ....ID..
+3C 46 31 22 08 77 54 2A  35 0B 6D 15 89 51 09 57  <F1".wT* 5.m..Q.W
+75 2F 36 CC FF 13 B2 F4  F9 26 3B E7 C0 73 B9 E3  u/6..... .&;..s..
+16 1C 44 A5 E0 1D C0 93  07 7E C8 11 97 87 7A C3  ..D..... .~....z.
+1A B6 9A FC 72 65 31 9B  A8 61 FD 8B A6 D1 30 63  ....re1. .a....0c
+56 C6 83 CF D5 08 AF 7E  1E 0F 07 4E B4 6E 1D 2D  V......~ ...N.n.-
+DC B1 CE C9 C3 F2 5A B2  2F 84 97 1E 5B AA DE 6E  ......Z. /...[..n
+E4 34 D2 55 E8 58 C1 E7  A8 FF 85 EE 2C 4D 64 FB  .4.U.X.. ....,Md.
+0C 00 3C 8D 3C 30 F1 52  C6 2E 94 54 18 EF 76 8F  ..<.<0.R ...T..v.
+FB 5D 76 66 4B E9 E5 5D  D2 8F C9 1B A1 FB A3 F7  .]vfK..] ........
+E8 3F 17 BE E6 B0 00 43  72 10 85 74 84 AB 3A E8  .?.....C r..t..:.
+02 EF 19 4A B8 B8 AE 2A  31 DC 51 A7 23 85 21 2D  ...J...* 1.Q.#.!-
+6F 7A 6C 3B B5 A6 0F ED  ED 9C FE A8 B3 17 51 D8  ozl;.... ......Q.
+A3 F7 00 18 B6 56 C9 FA  BB EC 45 BF 25 00 2A 16  .....V.. ..E.%.*.
+83 5F 79 5F E6 17 8E 6A  9B 67 D1 71 BF 51 2C DA  ._y_...j .g.q.Q,.
+4D BD 44 03 F3 64 65 CE  D1 16 3E BA 71 48 E6 72  M.D..de. ..>.qH.r
+D8 02 DE 0C 51 34 FC 73  AF 55 64 DA 39 FB C6 3D  ....Q4.s .Ud.9..=
+1D 68 AA BE 6A 8B C8 EE  2F BD DC C1 FD DD FF 77  .h..j... /......w
+80 E4 39 25 4B 5C 4F 77  94 BF 11 99 F3 B0 B8 F8  ..9%K\Ow ........
+06 9A 9E 1E C1 7F A0 02  C0 E3 18 EF 6A A9 A8 2C  ........ ....j..,
+8E B6 09 BC 6B 36 9E 71  FD 17 6A F3 48 94 20 42  ....k6.q ..j.H. B
+AA 91 F3 0C 93 DA F9 B5  C3 DA F5 C6 24 B3 0D 98  ........ ....$...
+54 80 E2 B2 BF BF CE E1  81 17 EF 36 84 A5 8F F4  T....... ...6....
+BE 32 F0 55 8E F5 FE F3  58 E1 B4 4F 75 5A 97 D3  .2.U.... X..OuZ..
+2B 03 F8 65 EF EB A3 5D  66 6E 85 2B FF 49 9C 2B  +..e...] fn.+.I.+
+F6 B7 78 04 91 43 F6 E4  F3 6D 8E 2D A4 45 67 0F  ..x..C.. .m.-.Eg.
+A7 34 A9 DC EF B6 29 B8  B1 94 89 D6 E0 BE 93 15  .4....). ........
+70 A4 C0 3C F3 F3 40 D9  D3 F3 5D 5B 26 A4 C6 0B  p..<..@. ..][&...
+D4 85 F4 75 41 B2 66 4B  1D F8 47 D9 FE E0 1D 2A  ...uA.fK ..G....*
+16 AC E5 CC C6 FA CA 70  60 B5 63 7E 46 20 EF D1  .......p `.c~F ..
+BC E7 27 FE AE 7C 43 62  DE 77 BB 3F BB AA 67 98  ..'..|Cb .w.?..g.
+D7 43 63 5D 0D 89 97 A7  BC DB 2B 7F 94 F9 4C C8  .Cc].... ..+...L.
+7D 09 17 F0 DA 68 5B D6  71 75 F0 E6 A4 80 CD EA  }....h[. qu......
+74 FC E8 9C E8 1A 32 CB  77 FF 35 3E 80 D8 24 4F  t.....2. w.5>..$O
+FE 26 E5 23 F3 86 09 BA  6F 29 2C 4B D9 9B 35 43  .&.#.... o),K..5C
+3A 29 63 09 11 76 83 A3  74 A7 F3 CD A5 B8 44 00  :)c..v.. t.....D.
+5F 40 20 81 57 08 10 8C  C0 2C D2 3F B6 3E 4A 32  _@ .W... .,.?.>J2
+3A 64 C6 80 BE 6B 01 CF  08 40 74 04 1C 3A 7D 13  :d...k.. .@t..:}.
+7D A4 B8 E8 9A 4E EF 14  C2 25 FC 28 03 0C 75 8D  }....N.. .%.(..u.
+59 2C C9 A9 CC 90 AC 09  2E 3E 6F 4B BC 4A 11 D2  Y,...... .>oK.J..
+47 91 31 25 A6 A6 DD BC  67 43 51 1F 94 C3 D5 2E  G.1%.... gCQ.....
+B2 81 BA 00 38 E1 8E F4  12 8D A0 22 C6 F3 66 0E  ....8... ..."..f.
+BF E0 05 A2 3D 50 DD 0B  B6 26 B5 58 92 1F FE 9B  ....=P.. .&.X....
+0D 68 AD 49 D3 6B 12 0E  70 CB 68 14 14 45 95 0F  .h.I.k.. p.h..E..
+52 A7 AA FF EE 56 E4 1E  4D 21 B0 FD E3 84 73 21  R....V.. M!....s!
+00 66 67 14 E2 53 C3 78  D2 A9 3B 38 82 6A 0E D2  .fg..S.x ..;8.j..
+2E E3 72 50 7B 63 00 78  FE FE 46 45 D7 F1 3A A2  ..rP{c.x ..FE..:.
+D5 D9 CF FA 00 EC 93 6A  9A CE 02 C8 D6 BE 66 AC  .......j ......f.
+9B 53 E2 2D                                       .S.-
+- - - - - - - - - - - -  - - - - - - - - - - - -  - - - - - - - - -
+
+07/02-13:24:34.692859 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3190 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x84817DDE  Ack: 0x503BB95E  Win: 0x1F5  TcpLen: 20
+
+07/02-13:24:35.134480 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3238 IpLen:20 DgmLen:808 DF
+***AP*** Seq: 0x848264AE  Ack: 0x503BC7BE  Win: 0x1F5  TcpLen: 20
+
+07/02-13:24:37.051086 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:55802 -> 239.255.255.250:1900
+192.168.2.86:55802 -> 239.255.255.250:1900
+UDP TTL:1 TOS:0x0 ID:64100 IpLen:20 DgmLen:203
+Len: 175
+
+07/02-13:24:37.915445 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3242 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x8482681E  Ack: 0x503BC9AE  Win: 0x1F5  TcpLen: 20
+
+07/02-13:24:37.977463 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3244 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x8482688E  Ack: 0x503BCA7E  Win: 0x1F5  TcpLen: 20
+
+07/02-13:24:38.051552 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:55802 -> 239.255.255.250:1900
+192.168.2.86:55802 -> 239.255.255.250:1900
+UDP TTL:1 TOS:0x0 ID:64101 IpLen:20 DgmLen:203
+Len: 175
+
+07/02-13:24:39.052280 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:55802 -> 239.255.255.250:1900
+192.168.2.86:55802 -> 239.255.255.250:1900
+UDP TTL:1 TOS:0x0 ID:64102 IpLen:20 DgmLen:203
+Len: 175
+
+07/02-13:24:40.052677 [**] [1:1917:16] "INDICATOR-SCAN UPnP service discover attempt" [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.2.86:55802 -> 239.255.255.250:1900
+192.168.2.86:55802 -> 239.255.255.250:1900
+UDP TTL:1 TOS:0x0 ID:64103 IpLen:20 DgmLen:203
+Len: 175
+
+07/02-13:24:41.234637 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3246 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x848268FE  Ack: 0x503BCB2E  Win: 0x1F5  TcpLen: 20
+
+07/02-13:24:46.605156 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.2.87:502 -> 192.168.2.91:60969
+192.168.2.87:502 -> 192.168.2.91:60969
+TCP TTL:64 TOS:0x0 ID:3252 IpLen:20 DgmLen:152 DF
+***AP*** Seq: 0x848269DE  Ack: 0x503C0C0E  Win: 0x1F5  TcpLen: 20
+
