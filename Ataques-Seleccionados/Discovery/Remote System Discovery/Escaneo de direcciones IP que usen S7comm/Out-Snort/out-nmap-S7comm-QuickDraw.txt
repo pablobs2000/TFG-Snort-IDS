@@ -1,0 +1,22 @@
+04/06-11:03:25.571658  [**] [1:1111301:1] S7 Enumerate Redpoint NSE Request CPU Function Read SZL attempt [**] [Priority: 3] {TCP} 192.168.0.142:57004 -> 192.168.0.64:102
+04/06-11:03:25.571658 192.168.0.142:57004 -> 192.168.0.64:102
+TCP TTL:64 TOS:0x0 ID:53530 IpLen:20 DgmLen:73 DF
+***AP*** Seq: 0x3DBDB36D  Ack: 0xCA484A07  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+04/06-11:03:25.576536  [**] [1:1111301:1] S7 Enumerate Redpoint NSE Request CPU Function Read SZL attempt [**] [Priority: 3] {TCP} 192.168.0.142:57004 -> 192.168.0.64:102
+04/06-11:03:25.576536 192.168.0.142:57004 -> 192.168.0.64:102
+TCP TTL:64 TOS:0x0 ID:53532 IpLen:20 DgmLen:73 DF
+***AP*** Seq: 0x3DBDB38E  Ack: 0xCA484A84  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+04/06-11:03:25.582400  [**] [1:1111301:1] S7 Enumerate Redpoint NSE Request CPU Function Read SZL attempt [**] [Priority: 3] {TCP} 192.168.0.142:57004 -> 192.168.0.64:102
+04/06-11:03:25.582400 192.168.0.142:57004 -> 192.168.0.64:102
+TCP TTL:64 TOS:0x0 ID:53533 IpLen:20 DgmLen:73 DF
+***AP*** Seq: 0x3DBDB3AF  Ack: 0xCA484B01  Win: 0x1F6  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+RESULTADOS PARA LA REGLA MODIFICADA:
+alert tcp any any -> any 102 (content: "|32 07 00 00 00 00 00 08 00 08|"; offset: 7; depth: 10; content: "|00 01 12 04 11 44 01 00|"; distance: 0; depth: 8; msg: "S7 Enumerate Redpoint NSE Request CPU Function Read SZL attempt";sid:1111301;priority:3;rev:1;)
