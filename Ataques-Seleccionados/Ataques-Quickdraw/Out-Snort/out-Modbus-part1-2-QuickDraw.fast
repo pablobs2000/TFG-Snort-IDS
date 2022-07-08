@@ -1,0 +1,126 @@
+08/26-08:01:34.211940  [**] [1:1111001:2] SCADA_IDS: Modbus TCP - Force Listen Only Mode [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:34.211940 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34179 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F183  Ack: 0x70F1AD1B  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:01:34.214335  [**] [1:1111001:2] SCADA_IDS: Modbus TCP - Force Listen Only Mode [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:34.214335 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34180 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F18F  Ack: 0x70F1AD24  Win: 0xFAE7  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:01:34.216894  [**] [1:1111001:2] SCADA_IDS: Modbus TCP - Force Listen Only Mode [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:34.216894 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34181 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F19B  Ack: 0x70F1AD2D  Win: 0xFADE  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:01:44.834827  [**] [1:1111002:2] SCADA_IDS: Modbus TCP - Restart Communications Option [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:44.834827 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34183 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F1A7  Ack: 0x70F1AD36  Win: 0xFAD5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:01:44.837161  [**] [1:1111002:2] SCADA_IDS: Modbus TCP - Restart Communications Option [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:44.837161 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34184 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F1B3  Ack: 0x70F1AD3F  Win: 0xFACC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:01:50.267053  [**] [1:1111002:2] SCADA_IDS: Modbus TCP - Restart Communications Option [**] [Classification: Attempted Denial of Service] [Priority: 1] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:50.267053 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34186 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F1BF  Ack: 0x70F1AD4B  Win: 0xFAC0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:02:20.209286  [**] [1:1111003:2] SCADA_IDS: Modbus TCP - Clear Counters and Diagnostic Registers [**] [Classification: Misc Attack] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:02:20.209286 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34188 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F1CB  Ack: 0x70F1AD57  Win: 0xFAB4  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:02:23.212140  [**] [1:1111003:2] SCADA_IDS: Modbus TCP - Clear Counters and Diagnostic Registers [**] [Classification: Misc Attack] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:02:23.212140 10.0.0.57:2578 -> 10.0.0.3:502
+TCP TTL:128 TOS:0x0 ID:34190 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x6197F1D7  Ack: 0x70F1AD63  Win: 0xFAA8  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:05:58.375300  [**] [1:1111004:2] SCADA_IDS: Modbus TCP - Read Device Identification [**] [Classification: Attempted Information Leak] [Priority: 3] {TCP} 10.0.0.57:2579 -> 10.0.0.8:502
+08/26-08:05:58.375300 10.0.0.57:2579 -> 10.0.0.8:502
+TCP TTL:128 TOS:0x0 ID:34205 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x654CABA6  Ack: 0x42AA6543  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:06:02.611671  [**] [1:1111004:2] SCADA_IDS: Modbus TCP - Read Device Identification [**] [Classification: Attempted Information Leak] [Priority: 3] {TCP} 10.0.0.57:2579 -> 10.0.0.8:502
+08/26-08:06:02.611671 10.0.0.57:2579 -> 10.0.0.8:502
+TCP TTL:128 TOS:0x0 ID:34206 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x654CABB2  Ack: 0x42AA6543  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:22:43.917913  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502
+08/26-08:22:43.917913 10.0.0.57:2585 -> 10.0.0.8:502
+TCP TTL:128 TOS:0x0 ID:34311 IpLen:20 DgmLen:491 DF
+***AP*** Seq: 0x72D6D645  Ack: 0x51866F41  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:22:48.133580  [**] [1:1111008:1] SCADA_IDS: Modbus TCP - Illegal Packet Size, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502
+08/26-08:22:48.133580 10.0.0.57:2585 -> 10.0.0.8:502
+TCP TTL:128 TOS:0x0 ID:34312 IpLen:20 DgmLen:491 DF
+***AP*** Seq: 0x72D6D808  Ack: 0x51866F41  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:23:21.676918  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502
+08/26-08:23:21.676918 10.0.0.57:2585 -> 10.0.0.8:502
+TCP TTL:128 TOS:0x0 ID:34313 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x72D6D9CB  Ack: 0x51866F41  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:23:27.607932  [**] [1:1111009:1] SCADA_IDS: Modbus TCP - Non-Modbus Communication on TCP Port 502 [**] [Classification: Detection of a non-standard protocol or event] [Priority: 1] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502
+08/26-08:23:27.607932 10.0.0.57:2585 -> 10.0.0.8:502
+TCP TTL:128 TOS:0x0 ID:34314 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0x72D6D9D7  Ack: 0x51866F41  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:25:36.247102  [**] [1:1111010:2] SCADA_IDS: Modbus TCP - Slave Device Busy Exception Code Delay [**] [Classification: Denial of Service] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:4446
+08/26-08:25:36.247102 10.0.0.8:502 -> 10.0.0.57:4446
+TCP TTL:128 TOS:0x0 ID:1560 IpLen:20 DgmLen:50 DF
+***AP*** Seq: 0x534CB2AC  Ack: 0x74769716  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:26:02.408608  [**] [1:1111011:2] SCADA_IDS: Modbus TCP - Acknowledge Exception Code Delay [**] [Classification: Denial of Service] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:4446
+08/26-08:26:02.408608 10.0.0.8:502 -> 10.0.0.57:4446
+TCP TTL:128 TOS:0x0 ID:1565 IpLen:20 DgmLen:50 DF
+***AP*** Seq: 0x534CB2DE  Ack: 0x74769716  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:26:52.566181  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:4446
+08/26-08:26:52.566181 10.0.0.8:502 -> 10.0.0.57:4446
+TCP TTL:128 TOS:0x0 ID:1578 IpLen:20 DgmLen:54 DF
+***AP*** Seq: 0x534CB2FC  Ack: 0x74769716  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+08/26-08:26:56.103900  [**] [1:1111012:1] SCADA_IDS: Modbus TCP - Incorrect Packet Length, Possible DOS Attack [**] [Classification: Detection of a non-standard protocol or event] [Priority: 2] {TCP} 10.0.0.8:502 -> 10.0.0.57:4446
+08/26-08:26:56.103900 10.0.0.8:502 -> 10.0.0.57:4446
+TCP TTL:128 TOS:0x0 ID:1579 IpLen:20 DgmLen:54 DF
+***AP*** Seq: 0x534CB30A  Ack: 0x74769716  Win: 0xFAF0  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+

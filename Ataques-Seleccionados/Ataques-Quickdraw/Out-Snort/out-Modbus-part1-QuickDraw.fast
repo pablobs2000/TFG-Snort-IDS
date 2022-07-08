@@ -1,0 +1,10 @@
+08/26-08:05:58.375300  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2579 -> 10.0.0.8:502
+08/26-08:06:02.611671  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2579 -> 10.0.0.8:502
+08/26-08:12:18.985618  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:12:48.742388  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:13:25.132184  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:13:52.259088  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:14:02.072127  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:14:39.997992  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:22:43.917913  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502
+08/26-08:22:48.133580  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 10.0.0.57:2585 -> 10.0.0.8:502

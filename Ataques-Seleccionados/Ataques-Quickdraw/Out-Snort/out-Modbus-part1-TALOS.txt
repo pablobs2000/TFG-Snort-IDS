@@ -1,0 +1,22 @@
+08/26-08:01:34.211940 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:34.213852 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.3:502 -> 10.0.0.57:2578
+08/26-08:01:34.214335 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:34.216467 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.3:502 -> 10.0.0.57:2578
+08/26-08:01:34.216894 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:34.219055 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.3:502 -> 10.0.0.57:2578
+08/26-08:01:44.834827 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:44.836678 [**] [1:15071:5] "PROTOCOL-SCADA Modbus exception returned" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.3:502 -> 10.0.0.57:2578
+08/26-08:01:44.837161 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:01:50.267053 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:02:20.209286 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:02:23.212140 [**] [1:17795:5] "PROTOCOL-SCADA Modbus initiate diagnostic from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:06:37.917389 [**] [1:17799:5] "PROTOCOL-SCADA Modbus read device identification from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:06:37.917389 [**] [1:17798:5] "PROTOCOL-SCADA Modbus report slave id from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:06:40.290808 [**] [1:17799:5] "PROTOCOL-SCADA Modbus read device identification from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:06:40.290808 [**] [1:17798:5] "PROTOCOL-SCADA Modbus report slave id from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.57:2578 -> 10.0.0.3:502
+08/26-08:12:18.985618 [**] [1:17788:5] "PROTOCOL-SCADA Modbus read coils from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:12:48.742388 [**] [1:17788:5] "PROTOCOL-SCADA Modbus read coils from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:13:25.132184 [**] [1:17790:5] "PROTOCOL-SCADA Modbus read holding registers from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:13:52.259088 [**] [1:17784:5] "PROTOCOL-SCADA Modbus write single coil from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:14:02.072127 [**] [1:17784:5] "PROTOCOL-SCADA Modbus write single coil from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502
+08/26-08:14:39.997992 [**] [1:17783:5] "PROTOCOL-SCADA Modbus write single register from external source" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.0.9:3082 -> 10.0.0.3:502

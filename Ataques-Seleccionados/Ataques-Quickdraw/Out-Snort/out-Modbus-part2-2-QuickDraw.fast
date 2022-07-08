@@ -1,0 +1,217 @@
+07/21-10:24:52.984182  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:52.984182 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64775 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDD5A  Ack: 0x8A75F5C7  Win: 0xFAE7  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:53.519653  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:53.519653 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64776 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDD66  Ack: 0x8A75F5D0  Win: 0xFADE  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:54.045123  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:54.045123 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64777 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDD72  Ack: 0x8A75F5D9  Win: 0xFAD5  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:54.577603  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:54.577603 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64778 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDD7E  Ack: 0x8A75F5E2  Win: 0xFACC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:55.357835  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:55.357835 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64779 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDD8A  Ack: 0x8A75F5EB  Win: 0xFAC3  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:55.888998  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:55.888998 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64780 IpLen:20 DgmLen:54 DF
+***AP*** Seq: 0xF1ECDD96  Ack: 0x8A75F5F7  Win: 0xFAB7  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:56.670247  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:56.670247 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64782 IpLen:20 DgmLen:48 DF
+***AP*** Seq: 0xF1ECDDA4  Ack: 0x8A75F600  Win: 0xFAAE  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:58.794047  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:58.794047 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64786 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDDD0  Ack: 0x8A75F627  Win: 0xFA87  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:24:59.326457  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:24:59.326457 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64787 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDDDC  Ack: 0x8A75F630  Win: 0xFA7E  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:01.173171  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:01.173171 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64791 IpLen:20 DgmLen:53 DF
+***AP*** Seq: 0xF1ECDE00  Ack: 0x8A75F64B  Win: 0xFA63  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:01.700544  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:01.700544 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64792 IpLen:20 DgmLen:53 DF
+***AP*** Seq: 0xF1ECDE0D  Ack: 0x8A75F654  Win: 0xFA5A  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:02.482474  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:02.482474 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64794 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDE1A  Ack: 0x8A75F65D  Win: 0xFA51  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:04.335459  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:04.335459 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64797 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDE3E  Ack: 0x8A75F678  Win: 0xFA36  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:05.106429  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:05.106429 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64798 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDE4A  Ack: 0x8A75F681  Win: 0xFA2D  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:05.638732  [**] [1:1111007:1] SCADA_IDS: Modbus TCP - Unauthorized Write Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:05.638732 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64799 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDE56  Ack: 0x8A75F68A  Win: 0xFA24  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:06.170715  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:06.170715 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64800 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDE62  Ack: 0x8A75F693  Win: 0xFA1B  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:06.700713  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:06.700713 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64801 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDE6E  Ack: 0x8A75F69C  Win: 0xFA12  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:25:17.561063  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:25:17.561063 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64825 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECDF52  Ack: 0x8A75F74D  Win: 0xF961  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:06.972800  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:06.972800 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64922 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE34E  Ack: 0x8A75FA4C  Win: 0xFA67  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:07.500048  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:07.500048 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64923 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE35A  Ack: 0x8A75FA56  Win: 0xFA5D  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:08.029848  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:08.029848 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64924 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE366  Ack: 0x8A75FA60  Win: 0xFA53  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:08.560349  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:08.560349 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64925 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE372  Ack: 0x8A75FA69  Win: 0xFA4A  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:09.341790  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:09.341790 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64927 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE37E  Ack: 0x8A75FA72  Win: 0xFA41  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:09.875501  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:09.875501 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64928 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE38A  Ack: 0x8A75FA7B  Win: 0xFA38  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:10.406438  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:10.406438 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64929 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE396  Ack: 0x8A75FA84  Win: 0xFA2F  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:11.185636  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:11.185636 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64931 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE3A2  Ack: 0x8A75FA8D  Win: 0xFA26  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:11.967093  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:11.967093 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64933 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE3AE  Ack: 0x8A75FA96  Win: 0xFA1D  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:12.498222  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:12.498222 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64934 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE3BA  Ack: 0x8A75FAA0  Win: 0xFA13  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:13.029056  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:13.029056 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64935 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE3C6  Ack: 0x8A75FAAA  Win: 0xFA09  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:13.561178  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:13.561178 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64936 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE3D2  Ack: 0x8A75FAB3  Win: 0xFA00  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+07/21-10:26:14.091153  [**] [1:1111006:1] SCADA_IDS: Modbus TCP - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.66.235:2582 -> 166.161.16.230:502
+07/21-10:26:14.091153 192.168.66.235:2582 -> 166.161.16.230:502
+TCP TTL:128 TOS:0x0 ID:64937 IpLen:20 DgmLen:52 DF
+***AP*** Seq: 0xF1ECE3DE  Ack: 0x8A75FABC  Win: 0xF9F7  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+

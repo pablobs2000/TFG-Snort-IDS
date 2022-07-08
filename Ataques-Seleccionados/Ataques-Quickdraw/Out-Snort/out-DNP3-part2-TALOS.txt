@@ -1,0 +1,11 @@
+05/03-11:25:58.103372 [**] [1:15717:6] "PROTOCOL-SCADA DNP3 unknown object error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:26:22.372787 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:26:24.459317 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:26:25.309759 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:26:25.963807 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:26:26.543325 [**] [1:15718:6] "PROTOCOL-SCADA DNP3 unsupported function code error" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:27:22.886771 [**] [1:15713:6] "PROTOCOL-SCADA DNP3 device trouble" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:27:24.476721 [**] [1:15713:6] "PROTOCOL-SCADA DNP3 device trouble" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:27:25.009772 [**] [1:15713:6] "PROTOCOL-SCADA DNP3 device trouble" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:27:25.535308 [**] [1:15713:6] "PROTOCOL-SCADA DNP3 device trouble" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
+05/03-11:27:26.067482 [**] [1:15713:6] "PROTOCOL-SCADA DNP3 device trouble" [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.66.33:1167 -> 192.168.66.34:20000
