@@ -1,0 +1,76 @@
+05/07-12:09:21.085148  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:21.085148 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9219 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xECE788B5  Ack: 0x39F63BA0  Win: 0x1FD  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:21.182320  [**] [1:1111208:1] SCADA_IDS: DNP3 - Unauthorized Miscellaneous Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:21.182320 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9220 IpLen:20 DgmLen:76 DF
+***AP*** Seq: 0xECE788D4  Ack: 0x39F63C63  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:23.151627  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:23.151627 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9222 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xECE788F8  Ack: 0x39F63C89  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:24.072412  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:24.072412 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9224 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xECE78913  Ack: 0x39F63CDA  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:34.087802  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:34.087802 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9226 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xECE7892B  Ack: 0x39F63CEB  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:43.195823  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:43.195823 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9228 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xECE78943  Ack: 0x39F63CFC  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:44.117870  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:44.117870 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9230 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xECE7895E  Ack: 0x39F63D4D  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:47.287595  [**] [1:1111208:1] SCADA_IDS: DNP3 - Unauthorized Miscellaneous Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:47.287595 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9232 IpLen:20 DgmLen:187 DF
+***AP*** Seq: 0xECE78976  Ack: 0x39F63D5E  Win: 0x1FC  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:47.365882  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:47.365882 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9234 IpLen:20 DgmLen:71 DF
+***AP*** Seq: 0xECE78A09  Ack: 0x39F63D84  Win: 0x1FB  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:47.443054  [**] [1:1111208:1] SCADA_IDS: DNP3 - Unauthorized Miscellaneous Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 1] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:47.443054 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9236 IpLen:20 DgmLen:76 DF
+***AP*** Seq: 0xECE78A28  Ack: 0x39F63F33  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+
+05/07-12:09:54.149053  [**] [1:1111206:1] SCADA_IDS: DNP3 - Unauthorized Read Request to a PLC [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 192.168.2.91:49964 -> 192.168.2.86:20000
+05/07-12:09:54.149053 192.168.2.91:49964 -> 192.168.2.86:20000
+TCP TTL:128 TOS:0x0 ID:9238 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0xECE78A4C  Ack: 0x39F63F59  Win: 0x200  TcpLen: 20
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
